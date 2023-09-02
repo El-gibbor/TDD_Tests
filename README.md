@@ -10,12 +10,11 @@ This repository is not/shouldn't be limited to our current TDD project but also 
 We encourage everyone to contribute to this repository by adding their own tests and edge cases. Here's how you can get involved:  
 - **Fork the Repository:** Start by forking it to your own GitHub account.  
 - **Clone the Repository:** Clone your forked repository to your local development environment using `git clone` and the URL of this repo.  
-- **Create a New Branch:** Before making any changes, create a new branch for your contributions. You can do this using the `git checkout -b your-branch-name` command.  
+- **Create a New Branch:** Before making any changes, Please create and checkout to a new branch for your contributions.  
 - **Add Your Tests:** Write clear and well-documented test cases using Python. Ensure that your tests cover various scenarios and edge cases related to Python development.  
 - **Commit Your Changes:** Once you've added your tests, commit your changes with a descriptive commit message.  
-- **Push to Your Fork:** Push your changes to your forked repository on GitHub using `git push origin your-branch-name`.  
-- **Create a Pull Request (PR):** Go to the original repository and create a pull request. Provide a clear description of your contributions and any relevant details.  
-- **Review and Collaborate:** Collaborate with others on improving and refining the tests and edge cases. Be open to feedback and suggestions.
+- **Push to Your Fork & Create a Pull Request (PR):** Push your changes to your forked repository and your own branch. then come to this original repository and create a pull request. Try to provide a clear description of your contributions and any relevant details.  
+- **Review and Collaborate:** Work with us on improving and refining the tests and edge cases. Be open to feedback and suggestions.
 ## Guidelines for Contributions 👌🏾
 To maintain the quality and usefulness of this repository, please adhere to the following guidelines:
   
