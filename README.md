@@ -23,4 +23,6 @@ To maintain the quality and usefulness of this repository, please adhere to the 
 - Keep your code clean and adhere to Python's PEP 8 style guidelines.  
 - Be respectful and considerate of other contributors' work.
   
+**NB:**  If you are not yet good with markdown/readme formatting, then you can create a test file (eg: `task-0_test.txt`) inside the task directory and type in all the possible test and edge cases you have.  
+  
 Active participation and collaboration within us is highly encouraged. Feel free to open issues, ask questions, or provide feedback on existing contributions. Together, we can build a valuable resource for ourselves, our succeeding cohorts and anyone learning and practising TDD.
