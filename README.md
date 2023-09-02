@@ -2,7 +2,10 @@
 # TDD Project - Test & EdgeCases 🔍
 In response to strong encouragement to work together on test cases to ensure we cover all edge cases, I've created this repository. It's designed to be a collaborative space where we can curate an extensive collection of test cases. Our goal is to assist individuals, especially those in our current cohort and future cohorts, in enhancing their Test-Driven Development (TDD) skills by offering a diverse set of test cases, including edge cases.  
   
-This repository is not/shouldn't be limited to our current TDD project but also serves as an evolving resource for future projects that require rigorous test case development. Together, we can continuously update and expand it to meet the demands of various future projects like the Airbnb clone and other development endeavours where comprehensive tests are expected.   
+This repository is not/shouldn't be limited to our current TDD project but also serves as an evolving resource for future projects that require rigorous test case development. Together, we can continuously update and expand it to meet the demands of various future projects like the Airbnb clone and other development endeavours where comprehensive tests are expected.  
+|Tasks|Test cases|
+|:-------:|:------:|  
+|task 0 - add_integer|[test/add_integer](https://github.com/El-gibbor/C15_TDD_Testcases/tree/main/task-0#test-and-edgecases)|
 ## How to Contribute 🤝  
 We encourage everyone to contribute to this repository by adding their own tests and edge cases. Here's how you can get involved:  
 - **Fork the Repository:** Start by forking it to your own GitHub account.  
