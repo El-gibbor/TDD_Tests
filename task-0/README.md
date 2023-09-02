@@ -1,4 +1,4 @@
-# Test and Edgecases
+# Task 0 - add_integer
 - **Document your module, classes and functions:**  
     - All your modules (files), classes, and functions (inside and outside a class) should have documentation. check [here](https://intranet.alxswe.com/rltoken/dOO785g5EQYkRU2E1wri0g) to learn how to document your module and functions/methods.  
     - Your documentation must be a real sentence explaining what's the purpose of the module(file), class or method because the length of it will be verified.
@@ -25,7 +25,7 @@ Traceback (most recent call last):
 ValueError: invalid literal for int() with base 10: 'boy'
 ```
 you only need the traceback line and the Exception error line. if the Exception Type and error message don't tally with what was provided for us to use in the task, then you make use of the Exception type and error message provided for you in the intranet.  
-## Write your tests for the below cases  
+## Test Cases 
 - **Test:** Correct sum of two integers -> `(5, 10)`
 - **Test:** Correct sum of a positive and a negative integer. -> `(5, -10)`
 -  **Test:** Correct sum of a float and positive integer -> `(5.5, 10)`. Remember, your return value is cast to an integer. so this should return an absolute integer value.
