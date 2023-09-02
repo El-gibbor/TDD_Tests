@@ -12,7 +12,7 @@ We encourage everyone to contribute to this repository by adding their own tests
 - **Clone the Repository:** Clone your forked repository to your local development environment using `git clone` and the URL of this repo.  
 - **Create a New Branch:** Before making any changes, Please create and checkout to a new branch for your contributions.  
 - **Add Your Tests:** Write clear and well-documented test cases using Python. Ensure that your tests cover various scenarios and edge cases related to Python development.  
-- **Commit Your Changes:** Once you've added your tests, commit your changes with a descriptive commit message.  
+- **Commit Your Changes:** Edit the readme of the task and add your own tests, commit your changes with a descriptive commit message.  
 - **Push to Your Fork & Create a Pull Request (PR):** Push your changes to your forked repository and your own branch. then come to this original repository and create a pull request. Try to provide a clear description of your contributions and any relevant details.  
 - **Review and Collaborate:** Work with us on improving and refining the tests and edge cases. Be open to feedback and suggestions.
 ## Guidelines for Contributions 👌🏾
