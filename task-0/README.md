@@ -4,7 +4,7 @@
     - Your documentation must be a real sentence explaining what's the purpose of the module(file), class or method because the length of it will be verified.
     - Validate the length of your module documentation with `python3 -c 'print(__import__("your_module").__doc__)' | wc -l`. Replace `your_module` with the name of your file without the `.py` extension, and this should print at least **5**.
     - Do the same for your function documentation with `python3 -c 'print(__import__("your_function").add_integer.__doc__)' | wc -l` Replace `your_function` with the name of your function, and this should print at least **3**.
-## Effective Testing with your Python Shell 🐍
+## Testing with your Python Shell 🐍
 Leveraging the Python shell can be incredibly beneficial. Here are some tips to make the most of it:  
 - **Explore Various Inputs:** Use the Python shell to experiment with different inputs. Test your code with a variety of values and scenarios to ensure it behaves as intended.  
 - **Verify Expected Output:** Check if your code produces the expected output for the given inputs. If the computed result matches your expectations, consider it a successful test case.
