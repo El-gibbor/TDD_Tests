@@ -41,5 +41,5 @@ Test with special values such as `float('inf')` and `float('nan')` in the matrix
 - validate how your code handles a matrix consisting of a list of lists of integers and The divisor is set to `float('inf')`.
 ## NB:
 Test cases where exceptions (e.g., ZeroDivisionError, TypeError) should be raised, ensure they are raised with the correct messages.
-if the message in your test doesn't correspond with the Exception message raised in your code, the test will fail. you can make use of the Exception standard
-python Exception when if a custom Exception type and message wasnt given for such case. eg: the `OverFlowError` Exception and its error message.
+if the message in your test doesn't correspond with the Exception message raised in your code, the test will fail. you can make use of the Exception and error message from the T standard
+python Exception if a custom Exception type and message aren't given for such a scenario. e.g.: the `OverFlowError` Exception and its error message.
