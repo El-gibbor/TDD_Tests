@@ -35,7 +35,7 @@ you only need the traceback line and the Exception error line. if the Exception 
 -  **Test:** Float negative infinity - `add_integer(float('-inf') flaot('-inf'))` - Try it in your Python shell to see the output.
      - Incase you care, you can learn/know about [Float infinity values](https://favtutor.com/blogs/infinity-python) in python.
 - **Test:** Missing one argument -> `add_integer(10)`. Your func already has one default positional argument - `add_integer(a, b=89)`. so this returns a valid result.
-- **Test:** Missing both arguments/empty parameter -> `add_integer()`
+- **Test:** Missing both arguments/empty parameter -> `add_integer(None)` - this should raise an Exception for 'a' because 'b' has a default positional argument
 - **Test:** Float overflow -> `add_intger(float('inf'), float('inf'))` - Try in your python shell too.
   
 *Edit this readme and add yours right after the last test case 👆. If you are not yet good with markdown/readme formatting, then you can create a test file (eg: `add_int_test.txt`) inside  `task_0` directory and type in all the posible test and edge cases you have.*
