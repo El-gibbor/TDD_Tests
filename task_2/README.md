@@ -10,7 +10,7 @@ Leveraging the Python shell can be incredibly beneficial. Here are some tips to 
 - **Verify Expected Output:** Check if your code produces the expected output for the given inputs. If the computed result matches your expectations, consider it a successful test case.
 - **Handle Exceptions:** Pay attention to any traceback calls and exceptions raised during testing. Your test cases should handle these exceptions appropriately. If the task specifies a particular exception type and error message, ensure your code matches these requirements.    
 ## Test Cases 
-- Verify that the function correctly handles valid inputs where both first_name and last_name are strings, constructing a complete sentence.  
+- Verify that the function correctly handles valid inputs where both `first_name` and `last_name` are strings, constructing a complete sentence.  
 - **Missing last name** - Verify that the function correctly handles the case where only the first name is provided
 - Test for an invalid input where the last name is not a string and confirm your function raises the appropriate  Exception and error message.
 - Test for an invalid input where the first name is not a string and confirm your function raises the appropriate  Exception and error message.
