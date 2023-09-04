@@ -6,7 +6,9 @@ This repository is not/shouldn't be limited to our current TDD project but also 
 |Tasks|Test cases|
 |:-------:|:------:|  
 |task 0 - add_integer|[test/add_integer](https://github.com/El-gibbor/C15_TDD_Testcases/tree/main/task-0#test-and-edgecases)|  
-|task 1 - matrix_divided|[test/matrix_divided](https://github.com/El-gibbor/TDD_Tests/tree/main/task_1#task-1---matrix_divided)
+|task 1 - matrix_divided|[test/matrix_divided](https://github.com/El-gibbor/TDD_Tests/tree/main/task_1#task-1---matrix_divided)  
+|task 2 - say_my_name|[test/say_my_name](https://github.com/El-gibbor/TDD_Tests/tree/main/task_2#task-2---say_my_name)  
+|task 3 - print_square|[test/print_square](https://github.com/El-gibbor/TDD_Tests/tree/main/task_3#task-3---print_square)
 ## How to Contribute 🤝  
 We encourage everyone to contribute to this repository by adding their own tests and edge cases. Here's how you can get involved:  
 - **Fork the Repository:** Start by forking it to your own GitHub account.  
